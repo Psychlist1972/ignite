@@ -1,0 +1,3 @@
+In Dependencies group
+
+<TargetDeviceFamily Name="MSIXCore.Desktop" MinVersion="6.1.7601.0" MaxVersionTested="10.0.10240.0" />
